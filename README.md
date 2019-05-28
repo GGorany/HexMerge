@@ -7,4 +7,8 @@ I used the intelhex module below.
 https://github.com/bialix/intelhex
 
 I was able to code a simple Windows App to use when combining BootLoader and Application.
+
 Thanks a lot to bialix.
+
+
+I attached 3 intelhex files for testing.
